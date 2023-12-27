@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Georgetown University, Center for Aphasia Research and Rehabilitation</a>. 
+subtitle: <a href='https://www.aphasiaresearchcenter.org/'>Georgetown University, Center for Aphasia Research and Rehabilitation</a>. 
 
 profile:
   align: right
