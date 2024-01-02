@@ -7,7 +7,7 @@ subtitle: <a href='https://www.aphasiaresearchcenter.org/'>Georgetown University
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>4000 Reservoir Road</p>
     <p>Washington, DC 20007</p>
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, my name is Ryan Saloma, and welcome to my webpage. I am currently a research assistant at Georgetown University, helping research the causes of and treatments for aphasia. You can read more about my work for the Center for Aphasia Research and Rehabilitation [here](https://www.aphasiaresearchcenter.org/).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
