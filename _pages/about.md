@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 Hello, my name is Ryan Saloma, and welcome to my personal site! I am currently a research assistant at Georgetown University, helping research the causes of and treatments for aphasia. You can read more about my work at the Center for Aphasia Research and Rehabilitation [here](https://www.aphasiaresearchcenter.org/).
 
 I am also something of a coder and cook. This site will document my coding journey. On top of working at Georgetown, I am a student in the post-baccalaureate computer science program there. 
+
+For more information about what I'm cooking, go to [silly-eats.com](silly-eats.com). 
