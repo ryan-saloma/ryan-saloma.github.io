@@ -2,7 +2,7 @@
 title: "The Pattern of Phonological, Semantic, and Circumlocution Naming Errors for Nouns and Verbs in Primary Progressive Aphasia"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pattern-of-naming-errors-ppa
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-06-07
 venue: 'Aphasiology'
